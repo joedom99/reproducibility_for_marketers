@@ -8,6 +8,8 @@
 
 Companion notebook for the Marketing Data Science article **"Reproducibility, Replicability, and Generalizability in Digital Marketing Analytics."**
 
+## This is a work in progress, article is being written for expected publication on 10/25/26 ##
+
 ## What This Is
 
 A hands-on walkthrough of three tests every marketing number should pass, using one simple model: an ordinary least squares regression of weekly sales on paid search, social, and email spend.
