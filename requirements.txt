@@ -1,0 +1,11 @@
+# Minimum versions. Google Colab already has everything installed, so no setup is needed there.
+#
+# Tested and producing identical results (same fingerprints) on:
+#   Python 3.12.3, numpy 2.0.2, pandas 2.2.2, statsmodels 0.14.4, scikit-learn 1.6.1, matplotlib 3.10.0 (Colab-like)
+#   Python 3.13.16, numpy 2.1.3, pandas 2.2.3, statsmodels 0.15.0, scikit-learn 1.6.1, matplotlib 3.10.0 (Google Colab, Oct. 2026)
+#   Python 3.13.16, numpy 2.5.3, pandas 3.0.5, statsmodels 0.15.0, scikit-learn 1.9.1, matplotlib 3.11.2
+numpy>=2.0
+pandas>=2.2
+statsmodels>=0.14
+scikit-learn>=1.6
+matplotlib>=3.10
